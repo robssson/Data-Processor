@@ -1,3 +1,7 @@
 ### Data-Processor
-##### The objective of this project is to learn how to process data with using python libraries.
-##### Work in progress.
+##### Input data is scraped from Kaggle and contains stocks data.
+##### Run stocks.py script.
+#### Features:
+1. Data is analysed by performing **pandas** function.
+2. Data visualisation (**matplotlib**, **seaborn**)
+3. Prediction (**arima**)
