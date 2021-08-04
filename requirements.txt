@@ -1,5 +1,4 @@
 click==8.0.1
-colorama==0.4.4
 cycler==0.10.0
 Cython==0.29.24
 importlib-metadata==4.6.1
